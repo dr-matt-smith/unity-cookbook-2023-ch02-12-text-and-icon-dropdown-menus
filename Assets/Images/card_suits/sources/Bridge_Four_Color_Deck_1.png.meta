@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bridge_Four_Color_Deck_1_0: 3297921989898091842
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
